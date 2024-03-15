@@ -15,5 +15,5 @@
 homepage: "https://www.owntag.eu"
 documentation: "https://www.owntag.eu/de/documentation/owntag/"
 versions:
-    - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    - sha: 1902a3cedee89aff0b81d450299dd00f8264b3cf
       changeNotes: Initial Version
