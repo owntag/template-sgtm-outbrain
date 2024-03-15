@@ -1,5 +1,8 @@
-# example-community-template
+# Outbrain Server-to-Server tag template for Google Tag Manager Server Side Container
 
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+This is a template for a Google Tag Manager Server Side Container tag that sends data to Outbrain.  
+The tag is designed to be used with the Outbrain Amplify campaigns.
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+Created by [owntag](https://www.owntag.eu), compatible with any Google Tag Manager Server Side Container.
+
+![Outbrain Server-to-Server tag template for Google Tag Manager Server Side Container](screenshot.png)
