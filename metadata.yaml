@@ -15,5 +15,5 @@
 homepage: "https://www.owntag.eu"
 documentation: "https://www.owntag.eu/resources/gtm-templates/outbrain-server-to-server/"
 versions:
-    - sha: 6d524e5f85bae6bf3e036e751c98572dfd016346
-      changeNotes: Complete template metadata
+    - sha: 64a02f88478230b4eed4f5ab50efd16eb8b5d0a5
+      changeNotes: Add TOS conformation to template.tpl
