@@ -6,6 +6,7 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Outbrain Server-to-Server",
+  "categories": ["REMARKETING", "ADVERTISING", "CONVERSIONS"],
   "brand": {
     "id": "github.com_stape-io",
     "displayName": "owntag",
