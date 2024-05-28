@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://www.owntag.eu"
-documentation: "https://www.owntag.eu/de/documentation/owntag/"
+documentation: "https://www.owntag.eu/resources/gtm-templates/outbrain-server-to-server/"
 versions:
     - sha: 1902a3cedee89aff0b81d450299dd00f8264b3cf
       changeNotes: Initial Version
