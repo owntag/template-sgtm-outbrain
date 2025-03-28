@@ -14,7 +14,11 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Outbrain Server-to-Server",
-  "categories": ["REMARKETING", "ADVERTISING", "CONVERSIONS"],
+  "categories": [
+    "REMARKETING",
+    "ADVERTISING",
+    "CONVERSIONS"
+  ],
   "brand": {
     "id": "github.com_owntag",
     "displayName": "owntag",
